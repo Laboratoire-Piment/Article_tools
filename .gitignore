@@ -1,8 +1,12 @@
 # Byte-compiled / optimized / DLL files
+workspace/
+_store/
 __pycache__/
+ArticleTools/__pycache__/
 *.py[cod]
 *$py.class
-
+*.cpython-38.pyc
+*.pyc
 # C extensions
 *.so
 
